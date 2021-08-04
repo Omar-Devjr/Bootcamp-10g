@@ -1,5 +1,5 @@
-# Kodemia
+# Bootcamp
+
 ## Omar Cortes Cruz
 
-
-Bootcamp Javascript
+Front-end Developer in progress...
